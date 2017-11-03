@@ -77,7 +77,7 @@ function createPixelData() {
     tick();
   };
 
-  image.src = "http://inwblock.com/img/2.png";
+  image.src = "img/2.png";
 }
 
 function createPaticles() {
