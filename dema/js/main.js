@@ -11,7 +11,7 @@ var update = function () {
 }
 
 var colorFloatToHex = function (color) {
-  // By Matt Ostgard - https://codepen.io/mgard/pen/pyxXYz
+
   // Convert Float color [1,1,] to #fff
   var hexColor = ''
   for (var i = 0; i < color.length; i++) {
