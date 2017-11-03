@@ -1,0 +1,29 @@
+
+#container{
+	  width: 0px;
+  height: 0px;
+  text-align:center;
+}
+
+canvas{
+  display:block;
+  vertical-align:bottom;
+  
+  
+}
+
+nav{
+	
+	height:50px;
+	position: absolute;
+	
+}
+
+
+/* ---- particles.js container ---- */
+
+#particles-js{
+    width: 100vw;
+    height: 100vh;
+	background:#000;
+}
